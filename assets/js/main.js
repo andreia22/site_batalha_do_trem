@@ -181,7 +181,6 @@ document.addEventListener('DOMContentLoaded', () => {
     setInterval(changeColor, 6000);
 
    
-   
 /*let images = ["back_0.png", "back_1.png", "back_2.png.jpg", "back_4.png.jpg",
  "back_5.png.jpg", "back_6.png.jpg", "back_7.png.jpg"];
 let currentImage = 0;
